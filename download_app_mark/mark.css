@@ -1,0 +1,20 @@
+.download-app-mark-tip{
+    position: fixed;
+    left:0;
+    top:0;
+    bottom:0;
+    background: rgba(0,0,0,0.6);
+    filter:alpha(opacity=30);
+    height: 100%;
+    width: 100%;
+    z-index: 100;
+    display:none;
+}
+.download-app-mark-tip p{
+    text-align: center;
+    margin-top: 10%;
+    padding:0 5%;
+}
+.download-app-mark-tip img{ width: 100%;
+     height: auto;
+ }
